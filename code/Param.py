@@ -30,9 +30,9 @@ FRAME_WIDTH = 112
 FRAME_HEIGHT = 112
 
 # FILE
-FEATURE_DIR = '/home/kayzhou/GP/Feature'
-SAMPLE_DIR = '/home/kayzhou/GP/Sample'
-MAXFOLD = '/home/kayzhou/B data'
+FEATURE_DIR = ''
+SAMPLE_DIR = ''
+MAXFOLD = ''
 DATA_FOLDS = MAXFOLD+'/datapath.txt'
 
 # FEATURE_DIR = '/media/kayzhou/Seagate Expansion Drive/Feature'
